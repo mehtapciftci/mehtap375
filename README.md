@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mehtap375
-- 👀 I’m interested in Front End
-- 🌱 I’m currently learning React
+- 👀 I’m interested Python
+- 🌱 I’m currently learning more Django & Flask
 - 📫 How to reach me mehtapspc@gmail.com
 
 <!---
