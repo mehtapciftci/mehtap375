@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mehtapciftci
 - 👀 I’m interested Python
 - 🌱 I’m currently learning more Django & Flask
-- 📫 How to reach me mehtapciftci@outlook.com.tr
+- 📫 How to reach me mehtapciftci1@outlook.com
 
 <!---
 mehtap375/mehtap375 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
